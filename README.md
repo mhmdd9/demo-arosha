@@ -4,7 +4,7 @@
 ## Description
 This Project consists of two main Entities: Person (table PERSON), 
 Document (table DOCUMENT) which are related
- via ManyToMany relationship, and the joint table name is PERSON_DOCUMENTS.
+ via ManyToMany relationship, and the join table name is PERSON_DOCUMENTS.
  
 ## Requirements to run
 
