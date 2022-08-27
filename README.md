@@ -41,7 +41,7 @@ after running the app with the guide noted above.
 
 ## Tech Stack
 
-**Spring boot version 2.7.1**
+**Spring boot version 2.7.3**
 * Spring Data - JPA
 * Spring Web
 
